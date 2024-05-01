@@ -8,7 +8,7 @@ const Footer = () => {
                 <Row>
                     <Col xs={{ size: 4, offset: 1 }} sm='2'>
                         <h3>Get in touch!</h3>
-                        <p>Find out how our products can help you be more productive.</p>
+                        <p>Find out how our services can help you be more productive.</p>
                         <Button
                             style={{ color: 'white', backgroundColor: '#43A271' }} class="rounded">
                             Contact us

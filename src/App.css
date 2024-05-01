@@ -1,5 +1,11 @@
+* {
+  /* background-color: #005034; */
+}
+
 body {
-  font-family: 'Poppins', 'Arial Light', Arial, sans-serif;
+  /* display: flex;
+  align-items: centers; */
+  font-family: 'Poppsins', 'Arial Light', Arial, sans-serif;
   background-color: #005034;
   color: black;
 }

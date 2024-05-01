@@ -14,7 +14,6 @@ const Header = () => {
         <header className='site-header'>
         <Navbar sticky='top' expand='md'>
             <NavbarBrand className='ms-5' href='/'>
-                {/* <img src={NucampLogo} alt='nucamp logo' className='float-start' /> */} 
                 <p  >TRIPMASTER</p>
                 <h1 className='mt-1'>Create your own </h1>
                 <h1>journey</h1>
